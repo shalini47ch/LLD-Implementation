@@ -6,6 +6,9 @@
    
    (Output of Parking Lot)
 
+4.[Design a Logging System](https://excalidraw.com/#json=90rXn8DHXvuEZs8kivfb2,aArISaY2uHRqmzUEYI6D0A)
+
+
 
 
 
