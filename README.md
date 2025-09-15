@@ -8,6 +8,12 @@
 
 4.[Design a Logging System](https://excalidraw.com/#json=90rXn8DHXvuEZs8kivfb2,aArISaY2uHRqmzUEYI6D0A)
 
+<img width="325" height="146" alt="image" src="https://github.com/user-attachments/assets/32218998-d9e7-4068-a719-7020a5368b4e" />
+
+(Output of Logging System)
+
+
+
 
 
 
