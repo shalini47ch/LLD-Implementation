@@ -1,7 +1,6 @@
 #now the other way is to use a runnable interface
 import threading
 import time 
-
 def my_task():
     for i in range(0,5):
         print(f"Runnable interface {threading.get_ident()} is running {i}")
