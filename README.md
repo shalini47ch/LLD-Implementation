@@ -16,6 +16,12 @@
 
 6.[Design a Car Rental System](https://excalidraw.com/#json=PDZZPC-KHxeNlzqu2YKXW,sQ3k3sIXCOb4wuW0YQusLQ)
 
+<img width="302" height="186" alt="image" src="https://github.com/user-attachments/assets/3b32a58d-bc44-4e3e-92ba-aa62d47ac530" />
+
+(Output of car rental system)
+
+
+
 
 
 
