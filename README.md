@@ -14,6 +14,10 @@
 
 5.[Design a Tic Tac Toe Game](https://excalidraw.com/#json=1_BFLVSKo8P3A_mJtOP1B,rtrzxOJb1qMEcgeNxHdH3g)
 
+6.[Design a Car Rental System](https://excalidraw.com/#json=PDZZPC-KHxeNlzqu2YKXW,sQ3k3sIXCOb4wuW0YQusLQ)
+
+
+
 
 
 
