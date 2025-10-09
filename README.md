@@ -20,6 +20,9 @@
 
 (Output of car rental system)
 
+7.[Design an ATM Machine](https://excalidraw.com/#json=s3quW_ghwLWJk7OLWM0lF,GHCB5bvatfuU82RJsFkhIg)
+
+
 
 
 
